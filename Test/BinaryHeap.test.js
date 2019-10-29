@@ -1,0 +1,2 @@
+import BinaryHeap from '../';
+
